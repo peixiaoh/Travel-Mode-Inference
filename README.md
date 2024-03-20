@@ -14,8 +14,9 @@ Identifying travel modes is essential for contemporary urban transportation plan
 
 ## Execution steps
 
-1. Unzip the data set in the data folder
-2. Execute code in numbered order
+1. Download the dataset from https://drive.google.com/file/d/17rESi-JG3arz3vLMBTtV8RvB4LAamIu9/view?usp=drive_link
+2. Unzip the dataset in the data folder
+3. Execute code in numbered order
 
 <!-- ## Acknowledgement
 
@@ -24,6 +25,6 @@ We thank Dabiri S. and Heaslip K. for providing the original code for motion sig
 ## Cite
 
 If our work is helpful to you, please cite:
-
+(the work is under review)
 
 
