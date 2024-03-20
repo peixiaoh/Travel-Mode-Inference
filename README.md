@@ -18,10 +18,6 @@ Identifying travel modes is essential for contemporary urban transportation plan
 2. Unzip the dataset in the data folder
 3. Execute code in numbered order
 
-<!-- ## Acknowledgement
-
-We thank Dabiri S. and Heaslip K. for providing the original code for motion signal extraction.  -->
-
 ## Cite
 
 If our work is helpful to you, please cite:
